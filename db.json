@@ -1,2 +1,16 @@
 
-    {"id":"1","name":"Avi","gender":"Male","age":27,"address":"Lonar","city":"Lonar","country":"India","status":"1","updated":"24/12/2020"}
+{ "cases":{
+    {"id":"1","name":"Avi","gender":"Male","age":27,"address":"Lonar","city":"Lonar","country":"India","status":"1","updated":"24/12/2020"},
+    {"id":"1","name":"Jiva","gender":"Female","age":27,"address":"Lonar","city":"fdgds","country":"India","status":"1","updated":"24/12/2020"}
+    },
+   "positive":{
+                {"id":"1","name":"dg","gender":"Male"},
+                {"id":"1","name":"Asdvi","gender":"Male"},
+                {"id":"1","name":"sdsdfsd","gender":"Female"}
+    },
+"negative":{
+                {"id":"5","name":"sdgh","gender":"Male"},
+                {"id":"8","name":"dsjg","gender":"Female"},
+                {"id":"10","name":"sdjgs","gender":"Male"}
+    }
+}
