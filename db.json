@@ -8,6 +8,26 @@
     "country": "India",
     "status": "Positive",
     "updated": "k"
+  },
+  {
+    "id": "2",
+    "name": "Shridhar Murali",
+    "age": "62",
+    "address": "Ratnagiri",
+    "city": "Mumbai",
+    "country": "India",
+    "status": "Positive",
+    "updated": "G"
+  },
+  {
+    "id": "3",
+    "name": "Nagaraj Jile",
+    "age": "45",
+    "address": "Dhule",
+    "city": "Pune",
+    "country": "India",
+    "status": "Negative",
+    "updated": "S"
   }
   
 }
