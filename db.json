@@ -5,12 +5,25 @@
   "scripts": {
     "start": "node ./bin/www"
   },
-  "dependencies": {
-    "cookie-parser": "~1.4.4",
-    "cors": "^2.8.5",
-    "debug": "~2.6.9",
-    "express": "~4.16.1",
-    "mongoose": "^5.8.11",
-    "morgan": "~1.9.1"
+  "cases": {
+    "id": "1",
+    "name": "Ram Pawar",
+    "age": "24",
+    "address": "Yeotmal",
+    "city": "Nagpur",
+    "country": "India",
+    "status": "Positive",
+    "updated": "24/12/2020",
+  },
+  {
+    "id": "2",
+    "name": "Shridhar Mule",
+    "age": "68",
+    "address": "Dhule",
+    "city": "Mumbai",
+    "country": "India",
+    "status": "Negative",
+    "updated": "17/03/2020",
   }
+  
 }
