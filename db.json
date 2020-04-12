@@ -1,7 +1,2 @@
-[
-    {"id":"1","name":"Avi","gender":"Male","age":27,"address":"Lonar","city":"Lonar","country":"India","status":"1","updated":"24/12/2020"},
-    {"id":"2","name":"Ravi","gender":"Male","age":27,"address":"Lonar","city":"Lonar","country":"India","status":"1","updated":"24/12/2020"},
-    {"id":"3","name":"kavi","gender":"Male","age":27,"address":"Lonar","city":"Lonar","country":"India","status":"1","updated":"24/12/2020"},
-    {"id":"4","name":"Ram","gender":"Male","age":27,"address":"Lonar","city":"Lonar","country":"India","status":"1","updated":"24/12/2020"},
 
-]
+    {"id":"1","name":"Avi","gender":"Male","age":27,"address":"Lonar","city":"Lonar","country":"India","status":"1","updated":"24/12/2020"}
