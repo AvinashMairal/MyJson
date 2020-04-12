@@ -14,16 +14,6 @@
     "country": "India",
     "status": "Positive",
     "updated": "24/12/2020",
-  },
-  {
-    "id": "2",
-    "name": "Shridhar Mule",
-    "age": "68",
-    "address": "Dhule",
-    "city": "Mumbai",
-    "country": "India",
-    "status": "Negative",
-    "updated": "17/03/2020",
   }
   
 }
