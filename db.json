@@ -1,5 +1,5 @@
 {
-  "cases": {
+  "cases": [{
     "id": "1",
     "name": "Ram Pawar",
     "age": "24",
@@ -28,6 +28,6 @@
     "country": "India",
     "status": "Negative",
     "updated": "S"
-  }
+  }]
   
 }
