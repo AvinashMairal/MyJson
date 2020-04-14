@@ -1,7 +1,7 @@
 {
-  [{
-    "cases": [{
+ "cases": [{
     "id": "1",
+    "_id": "1",
     "name": "Ram Pawar",
     "age": "24",
     "address": "Yeotmal",
@@ -12,6 +12,7 @@
   },
   {
     "id": "2",
+    "_id": "2",
     "name": "Shridhar Murali",
     "age": "62",
     "address": "Ratnagiri",
@@ -22,6 +23,7 @@
   },
   {
     "id": "3",
+    "_id": "3",
     "name": "Nagaraj Jile",
     "age": "45",
     "address": "Dhule",
@@ -29,36 +31,5 @@
     "country": "India",
     "status": "Negative",
     "updated": "S"
-  }],
-  "_id":"1",
-    {
-      "name": "Nagaraj Jile",
-      "age": "45",
-      "address": "Dhule",
-      "city": "Pune",
-      "country": "India",
-      "status": "Negative",
-      "updated": "S"
-    },
- "_id":"2",
-    {
-      "name": "Nagaraj Jile",
-      "age": "45",
-      "address": "Dhule",
-      "city": "Pune",
-      "country": "India",
-      "status": "Negative",
-      "updated": "S"
-    },
-"_id":"3",
-    {
-      "name": "Nagaraj Jile",
-      "age": "45",
-      "address": "Dhule",
-      "city": "Pune",
-      "country": "India",
-      "status": "Negative",
-      "updated": "S"
-    }
-  }]
+  }] 
 }
