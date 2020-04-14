@@ -30,7 +30,7 @@
     "updated": "S"
   }],
   "_id":"1",
-  {
+  [{
     "name": "Nagaraj Jile",
     "age": "45",
     "address": "Dhule",
@@ -38,9 +38,9 @@
     "country": "India",
     "status": "Negative",
     "updated": "S"
-  },
+  }],
  "_id":"2",
-  {
+  [{
     "name": "Nagaraj Jile",
     "age": "45",
     "address": "Dhule",
@@ -48,9 +48,9 @@
     "country": "India",
     "status": "Negative",
     "updated": "S"
-  },
+  }],
 "_id":"3",
-  {
+  [{
     "name": "Nagaraj Jile",
     "age": "45",
     "address": "Dhule",
@@ -58,5 +58,5 @@
     "country": "India",
     "status": "Negative",
     "updated": "S"
-  } 
+  }]
 }
