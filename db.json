@@ -1,5 +1,6 @@
 {
-  "cases": [{
+  [{
+    "cases": [{
     "id": "1",
     "name": "Ram Pawar",
     "age": "24",
@@ -30,33 +31,34 @@
     "updated": "S"
   }],
   "_id":"1",
-  [{
-    "name": "Nagaraj Jile",
-    "age": "45",
-    "address": "Dhule",
-    "city": "Pune",
-    "country": "India",
-    "status": "Negative",
-    "updated": "S"
-  }],
+    {
+      "name": "Nagaraj Jile",
+      "age": "45",
+      "address": "Dhule",
+      "city": "Pune",
+      "country": "India",
+      "status": "Negative",
+      "updated": "S"
+    },
  "_id":"2",
-  [{
-    "name": "Nagaraj Jile",
-    "age": "45",
-    "address": "Dhule",
-    "city": "Pune",
-    "country": "India",
-    "status": "Negative",
-    "updated": "S"
-  }],
+    {
+      "name": "Nagaraj Jile",
+      "age": "45",
+      "address": "Dhule",
+      "city": "Pune",
+      "country": "India",
+      "status": "Negative",
+      "updated": "S"
+    },
 "_id":"3",
-  [{
-    "name": "Nagaraj Jile",
-    "age": "45",
-    "address": "Dhule",
-    "city": "Pune",
-    "country": "India",
-    "status": "Negative",
-    "updated": "S"
+    {
+      "name": "Nagaraj Jile",
+      "age": "45",
+      "address": "Dhule",
+      "city": "Pune",
+      "country": "India",
+      "status": "Negative",
+      "updated": "S"
+    }
   }]
 }
