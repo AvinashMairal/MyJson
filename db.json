@@ -7,8 +7,9 @@
     "address": "Yeotmal",
     "city": "Nagpur",
     "country": "India",
-    "status": "Positive",
-    "updated": "k"
+    "status": "Negative",
+    "updated": "k",
+    "gender": "Male"
   },
   {
     "id": "2",
@@ -19,17 +20,67 @@
     "city": "Mumbai",
     "country": "India",
     "status": "Positive",
-    "updated": "G"
+    "updated": "G",
+    "gender": "Male"
   },
   {
     "id": "3",
     "_id": "3",
+    "name": "Savita Mode",
+    "age": "25",
+    "address": "Buldhana",
+    "city": "Buldhana",
+    "country": "India",
+    "status": "Positive",
+    "updated": "M",
+    "gender": "Female"
+  },
+  {
+    "id": "4",
+    "_id": "4",
     "name": "Nagaraj Jile",
     "age": "45",
     "address": "Dhule",
     "city": "Pune",
     "country": "India",
     "status": "Negative",
-    "updated": "S"
+    "updated": "P",
+    "gender": "Male"
+  },
+  {
+    "id": "5",
+    "_id": "5",
+    "name": "Kisan Waghmare",
+    "age": "28",
+    "address": "Pavai",
+    "city": "Mumbai",
+    "country": "India",
+    "status": "Recovered",
+    "updated": "S",
+    "gender": "Male"
+  },
+  {
+    "id": "6",
+    "_id": "6",
+    "name": "Seema Pitore",
+    "age": "42",
+    "address": "Sangali",
+    "city": "Nasik",
+    "country": "India",
+    "status": "Positive",
+    "updated": "S",
+    "gender": "Female"
+  },
+  {
+    "id": "7",
+    "_id": "7",
+    "name": "Seema Pitore",
+    "age": "61",
+    "address": "Washim",
+    "city": "Pune",
+    "country": "India",
+    "status": "Positive",
+    "updated": "S",
+    "gender": "Female"
   }] 
 }
