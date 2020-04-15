@@ -70,10 +70,21 @@
     "status": "Positive",
     "updated": "S",
     "gender": "Female"
-  },
-  {
+  }, {
     "id": "7",
     "_id": "7",
+    "name": "Dnyaneshwar Kale",
+    "age": "27",
+    "address": "Kundlas",
+    "city": "Lonar",
+    "country": "India",
+    "status": "Positive",
+    "updated": "Q",
+    "gender": "Male"
+  },
+  {
+    "id": "8",
+    "_id": "8",
     "name": "Seema Pitore",
     "age": "61",
     "address": "Washim",
